@@ -32,7 +32,7 @@ const Profile = () => {
   // Handle image upload
   const handleImageUpload = async () => {
     if (!selectedFile) {
-      alert("Please select a file to upload");
+      alert("Please select a file to upload1234");
       return;
     }
 
