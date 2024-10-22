@@ -90,7 +90,7 @@ const Profile = () => {
           {/* Show success message */}
         </>
       ) : (
-        <p>Loading profile.....</p>
+        <p>Loading profiles....123.</p>
       )}
     </div>
   );
