@@ -21,7 +21,7 @@ const SignUp = ({ setCurrentUser }) => {
 
       // Send POST request to API Gateway to get a pre-signed URL
       const response = await axios.post(
-        "https://pm1sucaoaa.execute-api.us-east-1.amazonaws.com/dev/signup", // Replace with your API Gateway URL
+        "https://9q7h11pvif.execute-api.us-east-1.amazonaws.com/dev/signup", // Replace with your API Gateway URL
         {
           email,
           password,
